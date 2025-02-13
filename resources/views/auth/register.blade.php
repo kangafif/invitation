@@ -125,7 +125,7 @@
                                         </div>
 
                                         <div class="mt-3">
-                                            <button class="btn btn-success w-100" type="submit">Sign Up</button>
+                                            <button class="btn btn-success w-100" type="submit" disabled>Sign Up</button>
                                         </div>
 
                                         <div class="mt-3 text-center">
