@@ -135,8 +135,8 @@
                                         <div class="p-4 rounded-3 mb-3" style="background: url('{{ asset('build/images/bg-ungu-emas.jpg') }}') no-repeat center center; background-size: cover;">
                                             <div class="d-flex">
                                                 <div class="flex-grow-1 text-light text-center">
-                                                    <h4 class="text-warning mb-0">Kemilau KeEmasan45</h4>
-                                                    <h5 class="text-light mb-2">Menuju Indonesia Emas</h5>
+                                                    <h4 class="text-warning mb-0">Syukuran Kemenangan KDM</h4>
+                                                    <h5 class="text-light mb-2">Bersama KeEmasan45</h5>
                                                     <img src="{{ asset('build/images/logo-keemasan.png') }}" width="100" class="mb-2">
                                                 </div>
                                                 <div class="flex-shrink-0 text-light">
@@ -156,8 +156,8 @@
                                                     <div>
                                                         <div id="cvc-elem" class="fw-medium fs-14 text-light">
                                                             Gedung Sate Bandung<br>
-                                                                        15 Februari 2025<br>
-                                                                        Jam 18.30 s/d selesai
+                                                            15 Februari 2025<br>
+                                                            Jam 18.30 s/d selesai
                                                         </div>
                                                     </div>
                                                 </div>
