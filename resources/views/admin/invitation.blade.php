@@ -135,8 +135,8 @@
                                         <div class="p-4 rounded-3 mb-3" style="background: url('{{ asset('build/images/bg-ungu-emas.jpg') }}') no-repeat center center; background-size: cover;">
                                             <div class="d-flex">
                                                 <div class="flex-grow-1 text-light text-center">
-                                                    <h2 class="text-warning mb-0">GRAND LAUNCHING</h1>
-                                                    <h5 class="text-light mb-2">INVITATION</h5>
+                                                    <h4 class="text-warning mb-0">Launcing ATM Emas (VM)</h4>
+                                                                    <h5 class="text-light mb-2">Keemasan45</h5>
                                                     <img src="{{ asset('build/images/logo-keemasan.png') }}" width="100" class="mb-2">
                                                 </div>
                                                 <div class="flex-shrink-0 text-light">
