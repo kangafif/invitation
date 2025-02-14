@@ -252,7 +252,7 @@ Users List
                                                     <!-- end card div elem -->
                                                 </div>
                             
-                                                <a href="https://api.whatsapp.com/send?text=Undangan%20Grand%20Launching%20Keemasan45.%20Berikut%20adalah%20link%20undangan%20untuk%20Anda.%20{{ $user->invitation_link }}" class="btn btn-success w-100 mt-3" type="submit"><i class="ri-whatsapp-line me-1 align-middle"></i> Share</a>
+                                                <a href="https://api.whatsapp.com/send?text=Hadiri Syukuran Kemenangan KDM bersama KeEmasan45. Link ini adalah Undangan khusus untuk Anda. {{ $user->invitation_link }} . Klik dan tunjukan kepada petugas penerima tamu kami ketika menghadiri acara tersebut. Terima Kasih." class="btn btn-success w-100 mt-3" type="submit"><i class="ri-whatsapp-line me-1 align-middle"></i> Share</a>
                                                 <!-- end card form elem -->
                                             </div>
                                         </div>
