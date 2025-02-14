@@ -155,7 +155,7 @@
                                                 <div class="col-8">
                                                     <div>
                                                         <div id="cvc-elem" class="fw-medium fs-14 text-light">
-                                                            Gedung Sate Bandung<br>
+                                                            Hotel Preanger<br>
                                                             15 Februari 2025<br>
                                                             Jam 18.30 s/d selesai
                                                         </div>
