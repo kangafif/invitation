@@ -216,8 +216,8 @@ Users List
                                                     <div class="p-4 rounded-3 mb-3" style="background: url('<?php echo e(asset('build/images/bg-ungu-emas.jpg')); ?>') no-repeat center center; background-size: cover;">
                                                         <div class="d-flex">
                                                             <div class="flex-grow-1 text-light text-center">
-                                                                <h4 class="text-warning mb-0">Syukuran Kemenangan KDM</h4>
-                                                                <h5 class="text-light mb-2">Bersama KeEmasan45</h5>
+                                                                <h4 class="text-warning mb-0">Kemilau KeEmasan45</h4>
+                                                                <h5 class="text-light mb-2">Menuju Indonesia Emas</h5>
                                                                 <img src="<?php echo e(asset('build/images/logo-keemasan.png')); ?>" width="100" class="mb-2">
                                                             </div>
                                                             <div class="flex-shrink-0 text-light">
@@ -238,7 +238,7 @@ Users List
                                                             <div class="col-8">
                                                                 <div>
                                                                     <div id="cvc-elem" class="fw-medium fs-14 text-light">
-                                                                        Gedung Sate Bandung<br>
+                                                                        Hotel Preanger<br>
                                                                         15 Februari 2025<br>
                                                                         Jam 18.30 s/d selesai
                                                                     </div>
@@ -254,7 +254,12 @@ Users List
                                                     <!-- end card div elem -->
                                                 </div>
                             
-                                                <a href="https://api.whatsapp.com/send?text=Undangan%20Grand%20Launching%20Keemasan45.%20Berikut%20adalah%20link%20undangan%20untuk%20Anda.%20<?php echo e($user->invitation_link); ?>" class="btn btn-success w-100 mt-3" type="submit"><i class="ri-whatsapp-line me-1 align-middle"></i> Share</a>
+                                                <a href="https://api.whatsapp.com/send?text=*Kemilau KeEmasan45 Menuju Indonesia Emas.*
+                                                Link ini adalah Undangan khusus untuk Anda.
+                                                <?php echo e($user->invitation_link); ?>
+
+                                                 Klik dan tunjukan kepada petugas penerima tamu kami ketika menghadiri acara tersebut.
+                                                 Terima Kasih." class="btn btn-success w-100 mt-3" type="submit"><i class="ri-whatsapp-line me-1 align-middle"></i> Share</a>
                                                 <!-- end card form elem -->
                                             </div>
                                         </div>
